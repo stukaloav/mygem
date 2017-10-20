@@ -1,5 +1,7 @@
 require "foo/version"
 
 module Foo
-  p "hello"
+  def self.sayHello
+    p "hello"
+  end
 end
