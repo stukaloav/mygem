@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e5a6f6-ae89-4865-8b6d-8a63644ef36b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mygem.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
+    <list default="true" id="c1e5a6f6-ae89-4865-8b6d-8a63644ef36b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,12 +129,12 @@
       <option name="presentableId" value="Default" />
       <updated>1508493873221</updated>
       <workItem from="1508493874396" duration="1674000" />
-      <workItem from="1508498345710" duration="931000" />
+      <workItem from="1508498345710" duration="1527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2605000" />
+    <option name="totallyTimeSpent" value="3201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2278" y="-4" width="1855" height="1084" extended-state="6" />
